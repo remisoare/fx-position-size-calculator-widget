@@ -1,0 +1,1 @@
+# fx-position-size-calculator-widget
